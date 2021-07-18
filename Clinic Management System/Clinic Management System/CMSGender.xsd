@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CMSGender" targetNamespace="http://tempuri.org/CMSGender.xsd" xmlns:mstns="http://tempuri.org/CMSGender.xsd" xmlns="http://tempuri.org/CMSGender.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="CMSGender" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="CMSGender (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Clinic_Management_System.Properties.Settings.GlobalReference.Default.CMSGender" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Patient_RegTableAdapter" GeneratorDataComponentClassName="Patient_RegTableAdapter" Name="Patient_Reg" UserDataComponentName="Patient_RegTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="CMSGender (Settings)" DbObjectName="CMS.dbo.Patient_Reg" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Gender FROM dbo.Patient_Reg</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Gender" DataSetColumn="Gender" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CMSGender" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="CMSGender" msprop:Generator_UserDSName="CMSGender">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Patient_Reg" msprop:Generator_TableClassName="Patient_RegDataTable" msprop:Generator_TableVarName="tablePatient_Reg" msprop:Generator_TablePropName="Patient_Reg" msprop:Generator_RowDeletingName="Patient_RegRowDeleting" msprop:Generator_RowChangingName="Patient_RegRowChanging" msprop:Generator_RowEvHandlerName="Patient_RegRowChangeEventHandler" msprop:Generator_RowDeletedName="Patient_RegRowDeleted" msprop:Generator_UserTableName="Patient_Reg" msprop:Generator_RowChangedName="Patient_RegRowChanged" msprop:Generator_RowEvArgName="Patient_RegRowChangeEvent" msprop:Generator_RowClassName="Patient_RegRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Gender" msprop:Generator_ColumnVarNameInTable="columnGender" msprop:Generator_ColumnPropNameInRow="Gender" msprop:Generator_ColumnPropNameInTable="GenderColumn" msprop:Generator_UserColumnName="Gender">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

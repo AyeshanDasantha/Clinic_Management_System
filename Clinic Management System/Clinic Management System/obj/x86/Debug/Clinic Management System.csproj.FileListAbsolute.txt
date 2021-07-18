@@ -1,0 +1,303 @@
+D:\CMS\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+D:\CMS\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csproj.GenerateResource.Cache
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.splash.resources
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.login.resources
+D:\CMS\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Main.resources
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.registration.resources
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.find_patient.resources
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.update_delete.resources
+D:\CMS\10.25 part 3\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+D:\CMS\10.25 part 3\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+D:\CMS\10.25 part 3\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+D:\CMS\10.25 part 3\Clinic Management System\bin\Debug\Clinic Management System.exe
+D:\CMS\10.25 part 3\Clinic Management System\bin\Debug\Clinic Management System.pdb
+D:\CMS\10.25 part 3\Clinic Management System\obj\x86\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+D:\CMS\10.25 part 3\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.find_patient.resources
+D:\CMS\10.25 part 3\Clinic Management System\obj\x86\Debug\Clinic_Management_System.login.resources
+D:\CMS\10.25 part 3\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Main.resources
+D:\CMS\10.25 part 3\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.registration.resources
+D:\CMS\10.25 part 3\Clinic Management System\obj\x86\Debug\Clinic_Management_System.splash.resources
+D:\CMS\10.25 part 3\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.update_delete.resources
+D:\CMS\10.25 part 3\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+D:\CMS\10.25 part 3\Clinic Management System\obj\x86\Debug\Clinic Management System.csproj.GenerateResource.Cache
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Multi_s.resources
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.all_function.resources
+D:\CMS\10.27\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+D:\CMS\10.27\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+D:\CMS\10.27\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+D:\CMS\10.27\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+D:\CMS\10.27\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+D:\CMS\10.27\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+D:\CMS\10.27\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.all_function.resources
+D:\CMS\10.27\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.find_patient.resources
+D:\CMS\10.27\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.login.resources
+D:\CMS\10.27\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Main.resources
+D:\CMS\10.27\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Multi_s.resources
+D:\CMS\10.27\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.registration.resources
+D:\CMS\10.27\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.splash.resources
+D:\CMS\10.27\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.update_delete.resources
+D:\CMS\10.27\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+D:\CMS\10.27\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csproj.GenerateResource.Cache
+D:\CMS\10.27\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.email.resources
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.email.resources
+D:\CMS\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Filter_date.resources
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.all_function.resources
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.email.resources
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Filter_date.resources
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.find_patient.resources
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.login.resources
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Main.resources
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Multi_s.resources
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.registration.resources
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.splash.resources
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.update_delete.resources
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csproj.GenerateResource.Cache
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.cache
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Ayeshan\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.All_Detail_Report.resources
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.All_Detail_Report.resources
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.all_function.resources
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.email.resources
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Filter_date.resources
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.find_patient.resources
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Main.resources
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Multi_s.resources
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.registration.resources
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.splash.resources
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.update_delete.resources
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csproj.GenerateResource.Cache
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.cache
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.All_Detail_Report.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.all_function.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.email.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Filter_date.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.find_patient.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.login.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Main.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Multi_s.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.registration.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.splash.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.update_delete.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csproj.GenerateResource.Cache
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.cache
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.All_Detail_Report.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.all_function.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.email.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Filter_date.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.find_patient.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.login.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Main.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Multi_s.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.registration.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.splash.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.update_delete.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csproj.GenerateResource.Cache
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.cache
+C:\Users\Ayeshan\Desktop\How to Export DataGridView Data to Excel by using Excel Object\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.compiled
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.login.resources
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Report_Chart.resources
+D:\CMS\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.DBBackup.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.All_Detail_Report.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.all_function.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.DBBackup.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.email.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Filter_date.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.find_patient.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.login.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Main.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Multi_s.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.registration.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Report_Chart.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.splash.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.update_delete.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Age.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.BloodGroup.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Disease.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Gender.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Married_Status.resources
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csproj.GenerateResource.Cache
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.cache
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.All_Detail_Report.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.all_function.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.DBBackup.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.email.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Filter_date.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.find_patient.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.login.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Main.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Multi_s.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.registration.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Report_Chart.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.splash.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.update_delete.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Age.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.BloodGroup.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Disease.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Gender.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Married_Status.resources
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csproj.GenerateResource.Cache
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.cache
+H:\C\desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.All_Detail_Report.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.all_function.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.DBBackup.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.email.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Filter_date.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.find_patient.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.login.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Main.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Multi_s.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.registration.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Report_Chart.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.splash.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.update_delete.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Age.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.BloodGroup.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Disease.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Gender.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Married_Status.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csproj.GenerateResource.Cache
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.cache
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.All_Detail_Report.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.all_function.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.DBBackup.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.email.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Filter_date.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.find_patient.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.login.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Main.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Multi_s.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.registration.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Report_Chart.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.splash.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.update_delete.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Age.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.BloodGroup.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Disease.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Gender.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Married_Status.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csproj.GenerateResource.Cache
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.cache
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.All_Detail_Report.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.all_function.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.DBBackup.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.email.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Filter_date.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.find_patient.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.login.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Main.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Multi_s.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.registration.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Report_Chart.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.splash.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.update_delete.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Age.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.BloodGroup.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Disease.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Gender.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Married_Status.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csproj.GenerateResource.Cache
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.cache
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.All_Detail_Report.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.all_function.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.DBBackup.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.email.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Filter_date.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.find_patient.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.login.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Main.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Multi_s.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.registration.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.Report_Chart.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.splash.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.form.update_delete.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Age.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.BloodGroup.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Disease.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Gender.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Zoom_Chart.Married_Status.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csproj.GenerateResource.Cache
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.cache
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.csprojResolveAssemblyReference.cache

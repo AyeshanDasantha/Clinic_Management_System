@@ -1,0 +1,113 @@
+C:\Users\Ayeshan\Desktop\With RDCL\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.exe.config
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.exe.config
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.All_Detail_Report.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.all_function.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.DBBackup.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.email.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Filter_date.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.find_patient.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.login.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Main.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Multi_s.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.registration.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Report_Chart.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.splash.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.update_delete.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Age.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.BloodGroup.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Disease.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Gender.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Married_Status.resources
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.csproj.GenerateResource.Cache
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\RdlCompile.cache
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\RdlCompile.compiled
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\Desktop\With RDCL\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.exe.config
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.All_Detail_Report.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.all_function.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.DBBackup.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.email.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Filter_date.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.find_patient.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.login.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Main.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Multi_s.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.registration.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Report_Chart.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.splash.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.update_delete.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Age.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.BloodGroup.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Disease.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Gender.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Married_Status.resources
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.csproj.GenerateResource.Cache
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\RdlCompile.cache
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\RdlCompile.compiled
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.exe.config
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.All_Detail_Report.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.all_function.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.DBBackup.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.email.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Filter_date.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.find_patient.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.login.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Main.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Multi_s.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.registration.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Report_Chart.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.splash.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.update_delete.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Age.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.BloodGroup.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Disease.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Gender.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Married_Status.resources
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.csproj.GenerateResource.Cache
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\RdlCompile.cache
+C:\Users\Ayeshan Dasantha\Desktop\Clinic Management System\Clinic Management System\obj\x86\Release\RdlCompile.compiled
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.exe.config
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.exe
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.pdb
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.All_Detail_Report.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.all_function.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.DBBackup.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.email.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Filter_date.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.find_patient.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.login.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Main.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Multi_s.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.registration.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.Report_Chart.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.splash.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.form.update_delete.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Age.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.BloodGroup.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Disease.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Gender.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic_Management_System.Zoom_Chart.Married_Status.resources
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\Clinic Management System.csproj.GenerateResource.Cache
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\RdlCompile.cache
+C:\Users\Ayeshan Dasantha\Desktop\Full Comple Project(CMS)\Clinic Management System\Clinic Management System\obj\x86\Release\RdlCompile.compiled

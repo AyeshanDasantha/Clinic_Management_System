@@ -1,0 +1,537 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6AD3AA66-D5C8-4B3E-A7DA-75C8847EA2CA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Clinic_Management_System</RootNamespace>
+    <AssemblyName>Clinic Management System</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>Custom-Icon-Design-Pretty-Office-6-Nurse.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Clinic_Management_System.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgeBetween_DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AgeBetween_DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Age_Between_DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Age_Between_DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Boold_DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Boold_DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Class\config.cs" />
+    <Compile Include="Class\DataGridViewColumnSelector.cs" />
+    <Compile Include="Class\DGVPrinter.cs" />
+    <Compile Include="CMSDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CMSDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Desease_DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Desease_DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DiseaseC_DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DiseaseC_DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Disease_DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Disease_DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="form\All_Detail_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\All_Detail_Report.Designer.cs">
+      <DependentUpon>All_Detail_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\all_function.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\all_function.Designer.cs">
+      <DependentUpon>all_function.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Application.cs" />
+    <Compile Include="form\DataGridViewColumnSelector.cs" />
+    <Compile Include="form\DBBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\DBBackup.Designer.cs">
+      <DependentUpon>DBBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\email.Designer.cs">
+      <DependentUpon>email.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Filter_date.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Filter_date.Designer.cs">
+      <DependentUpon>Filter_date.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\find_patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\find_patient.Designer.cs">
+      <DependentUpon>find_patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Multi_s.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Multi_s.Designer.cs">
+      <DependentUpon>Multi_s.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\NetworkCredentials.cs" />
+    <Compile Include="form\registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\registration.Designer.cs">
+      <DependentUpon>registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Report_Chart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Report_Chart.Designer.cs">
+      <DependentUpon>Report_Chart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\splash.Designer.cs">
+      <DependentUpon>splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\update_delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\update_delete.Designer.cs">
+      <DependentUpon>update_delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gender_Chart_DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Gender_Chart_DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="infoDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>infoDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Married_Status_DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Married_Status_DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Model.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="PID_search_box_dataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PID_search_box_dataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Class\update.cs" />
+    <Compile Include="Zoom Chart\Age.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zoom Chart\Age.Designer.cs">
+      <DependentUpon>Age.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zoom Chart\BloodGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zoom Chart\BloodGroup.Designer.cs">
+      <DependentUpon>BloodGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zoom Chart\Disease.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zoom Chart\Disease.Designer.cs">
+      <DependentUpon>Disease.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zoom Chart\Gender.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zoom Chart\Gender.Designer.cs">
+      <DependentUpon>Gender.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zoom Chart\Married_Status.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zoom Chart\Married_Status.Designer.cs">
+      <DependentUpon>Married_Status.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zoom Chart\WindowSettings.cs" />
+    <Compile Include="Zoom_BloodGroup.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Zoom_BloodGroup.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Zoom_Disease.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Zoom_Disease.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="form\All_Detail_Report.resx">
+      <DependentUpon>All_Detail_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\all_function.resx">
+      <DependentUpon>all_function.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\DBBackup.resx">
+      <DependentUpon>DBBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\email.resx">
+      <DependentUpon>email.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Filter_date.resx">
+      <DependentUpon>Filter_date.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\find_patient.resx">
+      <DependentUpon>find_patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Multi_s.resx">
+      <DependentUpon>Multi_s.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\registration.resx">
+      <DependentUpon>registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Report_Chart.resx">
+      <DependentUpon>Report_Chart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\splash.resx">
+      <DependentUpon>splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\update_delete.resx">
+      <DependentUpon>update_delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report.rdlc" />
+    <EmbeddedResource Include="Zoom Chart\Age.resx">
+      <DependentUpon>Age.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zoom Chart\BloodGroup.resx">
+      <DependentUpon>BloodGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zoom Chart\Disease.resx">
+      <DependentUpon>Disease.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zoom Chart\Gender.resx">
+      <DependentUpon>Gender.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zoom Chart\Married_Status.resx">
+      <DependentUpon>Married_Status.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="AgeBetween_DataSet.xsc">
+      <DependentUpon>AgeBetween_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AgeBetween_DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AgeBetween_DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AgeBetween_DataSet.xss">
+      <DependentUpon>AgeBetween_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Age_Between_DataSet.xsc">
+      <DependentUpon>Age_Between_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Age_Between_DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Age_Between_DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Age_Between_DataSet.xss">
+      <DependentUpon>Age_Between_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="app.config" />
+    <None Include="Boold_DataSet.xsc">
+      <DependentUpon>Boold_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Boold_DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Boold_DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Boold_DataSet.xss">
+      <DependentUpon>Boold_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CMSDataSet3.xsc">
+      <DependentUpon>CMSDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="CMSDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CMSDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CMSDataSet3.xss">
+      <DependentUpon>CMSDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="CMSEntities.datasource" />
+    <None Include="Desease_DataSet.xsc">
+      <DependentUpon>Desease_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Desease_DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Desease_DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Desease_DataSet.xss">
+      <DependentUpon>Desease_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DiseaseC_DataSet.xsc">
+      <DependentUpon>DiseaseC_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DiseaseC_DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DiseaseC_DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DiseaseC_DataSet.xss">
+      <DependentUpon>DiseaseC_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Disease_DataSet.xsc">
+      <DependentUpon>Disease_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Disease_DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Disease_DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Disease_DataSet.xss">
+      <DependentUpon>Disease_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Gender_Chart_DataSet.xsc">
+      <DependentUpon>Gender_Chart_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Gender_Chart_DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Gender_Chart_DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Gender_Chart_DataSet.xss">
+      <DependentUpon>Gender_Chart_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="infoDataSet.xsc">
+      <DependentUpon>infoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="infoDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>infoDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="infoDataSet.xss">
+      <DependentUpon>infoDataSet.xsd</DependentUpon>
+    </None>
+    <EntityDeploy Include="Model.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Married_Status_DataSet.xsc">
+      <DependentUpon>Married_Status_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Married_Status_DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Married_Status_DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Married_Status_DataSet.xss">
+      <DependentUpon>Married_Status_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Patient_Reg.datasource" />
+    <None Include="PID_search_box_dataset.xsc">
+      <DependentUpon>PID_search_box_dataset.xsd</DependentUpon>
+    </None>
+    <None Include="PID_search_box_dataset.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PID_search_box_dataset.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PID_search_box_dataset.xss">
+      <DependentUpon>PID_search_box_dataset.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Zoom_BloodGroup.xsc">
+      <DependentUpon>Zoom_BloodGroup.xsd</DependentUpon>
+    </None>
+    <None Include="Zoom_BloodGroup.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Zoom_BloodGroup.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Zoom_BloodGroup.xss">
+      <DependentUpon>Zoom_BloodGroup.xsd</DependentUpon>
+    </None>
+    <None Include="Zoom_Disease.xsc">
+      <DependentUpon>Zoom_Disease.xsd</DependentUpon>
+    </None>
+    <None Include="Zoom_Disease.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Zoom_Disease.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Zoom_Disease.xss">
+      <DependentUpon>Zoom_Disease.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer_Header.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Custom-Icon-Design-Pretty-Office-6-Nurse.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
