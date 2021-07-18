@@ -1,2 +1,2 @@
-# Clinic_Management_System
+# Clinic_Management_System C#
 Clinic Management System
